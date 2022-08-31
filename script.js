@@ -25,4 +25,3 @@ function limparTudo(){
 const botaoClear = document.querySelector(".botao2")
 
 botaoClear.addEventListener("click", limparTudo)
-
